@@ -14,5 +14,4 @@ puts "Where would you like to go?"
  
 index = input_to_index(input)
 
- puts move(board, index, character = "X")
-  board[index] = character
+puts move(board, index, character = "X")
