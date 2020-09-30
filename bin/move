@@ -17,4 +17,4 @@ index = input_to_index(input)
 puts move(board, index, character = "X")
 
 
-puts display_b
+puts display_board(board)
