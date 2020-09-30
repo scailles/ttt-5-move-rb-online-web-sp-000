@@ -9,8 +9,3 @@ puts "Welcome to Tic Tac Toe!"
 board = [" "," "," "," "," "," "," "," "," "]
 
 
-puts "Where would you like to go?"
-
-gets input
-
-input_to_index(input) == index
